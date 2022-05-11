@@ -1,5 +1,4 @@
-#KARIOTIS NIKOLAOS 3243
-#ORFANOUDIS KOSTAS 3303
+#KARIOTIS NIKOLAOS
 
 import random
 import numpy as np
